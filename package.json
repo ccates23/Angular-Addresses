@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ccates23/Angular-Addresses/issues"
   },
-  "homepage": "https://github.com/ccates23/Angular-Addresses"
+  "homepage": "https://github.com/ccates23/Angular-Addresses",
+  "devDependencies": {
+    "grunt": "^0.4.5"
+  }
 }
